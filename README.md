@@ -1,2 +1,2 @@
 # react-all
-all aboute react
+all about react
